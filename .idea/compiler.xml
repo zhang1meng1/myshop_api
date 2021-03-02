@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myshop_common_utils" />
+        <module name="myshop_common_service" />
+        <module name="myshop_common_pojo" />
+        <module name="myshop_common_dto" />
+        <module name="myshop_common_dao" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="myshop_api" options="-parameters" />
+      <module name="myshop_common_dao" options="-parameters" />
+      <module name="myshop_common_dto" options="-parameters" />
+      <module name="myshop_common_pojo" options="-parameters" />
+      <module name="myshop_common_service" options="-parameters" />
+      <module name="myshop_common_utils" options="-parameters" />
+    </option>
+  </component>
+</project>

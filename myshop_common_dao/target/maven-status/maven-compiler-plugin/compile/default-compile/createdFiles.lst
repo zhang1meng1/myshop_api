@@ -1,0 +1,5 @@
+com\kgc\mapper\QgGoodsMapper.class
+com\kgc\mapper\QgTradeMapper.class
+com\kgc\mapper\QgGoodsMessageMapper.class
+com\kgc\mapper\QgOrderMapper.class
+com\kgc\mapper\QgUserMapper.class

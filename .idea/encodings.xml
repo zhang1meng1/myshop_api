@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/myshop_common_dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop_common_dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop_common_pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop_common_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myshop_common_utils/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
